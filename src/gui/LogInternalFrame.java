@@ -1,21 +1,20 @@
 package gui;
 
-import javax.swing.JInternalFrame;
-
 import com.tomtessier.scrollabledesktop.BaseInternalFrame;
 
-public class OrderInternalFrame extends BaseInternalFrame {
+public class LogInternalFrame extends BaseInternalFrame {
 
 	/**
 	 * Create the frame.
 	 */
-	public OrderInternalFrame() {
+	public LogInternalFrame() {
 		setBounds(100, 100, 275, 414);
 		setResizable(true);
 		setMaximizable(true);
 		setIconifiable(true);
 		setClosable(true);
 		setVisible(true);
-		this.setTitle("Order");
+		this.setTitle("Log");
 	}
+
 }
