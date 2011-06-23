@@ -8,7 +8,7 @@ public class LogInternalFrame extends BaseInternalFrame {
 	 * Create the frame.
 	 */
 	public LogInternalFrame() {
-		setBounds(100, 100, 275, 414);
+		setBounds(100, 100, 447, 215);
 		setResizable(true);
 		setMaximizable(true);
 		setIconifiable(true);

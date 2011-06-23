@@ -8,7 +8,7 @@ public class QuoteInternalFrame extends BaseInternalFrame {
 	 * Create the frame.
 	 */
 	public QuoteInternalFrame() {
-		setBounds(100, 100, 266, 162);
+		setBounds(100, 100, 289, 203);
 		setResizable(true);
 		setMaximizable(true);
 		setIconifiable(true);
